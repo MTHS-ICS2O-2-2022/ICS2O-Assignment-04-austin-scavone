@@ -15,7 +15,7 @@
 
 function calculate () {
 // input
-const guitar= parseFloat(document.getElementById('guitar').value)
+const Guitar= parseFloat(document.getElementById('guitar').value)
 
 
 
@@ -23,9 +23,9 @@ const guitar= parseFloat(document.getElementById('guitar').value)
 // process
 
 
-const Guitar=  (2*0.13)
+const  how_many=  (2*0.13)
 
 
 // output
-document.getElementById('guitar').innerHTML = 'guitar is: ' + guitar + ' 0.13'
+document.getElementById('guitar').innerHTML = 'how_many is: ' + guitar + ' 0.13'
 }
