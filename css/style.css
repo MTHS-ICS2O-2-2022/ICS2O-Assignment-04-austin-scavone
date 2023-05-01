@@ -10,12 +10,12 @@
 
 
 .mdl-textfield__error {
-  color: rgb(227, 227, 216);
+  color: rgb(0, 213, 43);
 }
 
 
 .page-content {
-  color: white;
+  color: rgb(162, 221, 158);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
@@ -26,10 +26,10 @@ body {
 }
 
 img {
-  max-width: 250px;
+  max-width: 300px;
   height: 220px;
   float: right;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 250px;
   margin-right: 100px;
 }
