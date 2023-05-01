@@ -15,7 +15,7 @@
 
 function calculate () {
 // input
-const radius= parseFloat(document.getElementById('radius').value)
+const guitar= parseFloat(document.getElementById('guitar').value)
 
 
 
@@ -23,8 +23,9 @@ const radius= parseFloat(document.getElementById('radius').value)
 // process
 
 
-const volume= (4/3) * Math.PI * (radius ** 3)
+const Guitar=  (2*0.13)
 
 
 // output
-document.getElementById('volume').innerHTML = 'volume is: ' + volume + ' mm³'
+document.getElementById('guitar').innerHTML = 'guitar is: ' + guitar + ' 0.13'
+}
